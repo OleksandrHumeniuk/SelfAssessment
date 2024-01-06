@@ -2,7 +2,7 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming: 👂🖐️ used
+  - Imperative programming: 🖐️ used
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 👂 heard

@@ -4,8 +4,8 @@
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: 👂 heard phases: 👂 heard
-  - Event loop: 👂 heard microtasks and macrotasks: 👂 heard
+  - Event loop: phases: 👂 heard
+  - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 👂 heard
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
@@ -13,12 +13,12 @@
 - Modularity, layers and dependencies
   - CommonJS modules: 👂 heard
   - ECMAScript modules: 👂 heard
-  - node: 👂 heardmodule: 👂 heard
+  - node: module: 👂 heard
   - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 👂 heard
-  - Contexts and scripts node: 👂 heardvm: 👂 heard
-  - Dependencies: 👂 heard npm, node_modules: 👂 heard
-  - Dependencies: 👂 heard package.json and package lock: 👂 heard
+  - Contexts and scripts node: vm: 👂 heard
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 👂 heard
   - Dependency injection: 👂 heard
@@ -36,30 +36,30 @@
   - Streams API: 👂 heard
   - Web Streams API: 👂 heard
   - Crypto API: 👂 heard
-  - Password hashing with node: 👂 heardcrypto.scrypt: 👂 heard
+  - Password hashing with node: crypto.scrypt: 👂 heard
   - Web Crypto API: 👂 heard
   - File system API: 👂 heard sync and async: 👂 heard
   - Copy folder recursively: 👂 heard
   - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 👂 heard
-  - node: 👂 heardasync_hooks: 👂 heard
+  - node: async_hooks: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
   - Deprecated domain API: 👂 heard
   - Node.js single executable: 👂 heard
   - Stream back pressure: 👂 heard
   - SharedArrayBuffer: 👂 heard
-  - node: 👂 heardworker_threads: 👂 heard
-  - node: 👂 heardchild_process: 👂 heard
+  - node: worker_threads: 👂 heard
+  - node: child_process: 👂 heard
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 👂 heard
-  - node: 👂 heardurl vs new URL: 👂 heard
-  - node: 👂 heardassert: 👂 heard
+  - node: url vs new URL: 👂 heard
+  - node: assert: 👂 heard
   - Internationalization: 👂 heard
-  - Blob, File, Buffer, node: 👂 heardbuffer: 👂 heard
-  - Module node: 👂 heardzlib: 👂 heard
+  - Blob, File, Buffer, node: buffer: 👂 heard
+  - Module node: zlib: 👂 heard
 - Application structure and architecture
   - Isolation between layer: 👂 heard
   - Multilayer approach: 👂 heard

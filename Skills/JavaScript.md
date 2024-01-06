@@ -45,7 +45,7 @@
   - while: 👂 heard
   - do..while: 👂 heard
   - for: 🖐️ used
-  - for..in: 👂🖐️ used
+  - for..in: 🖐️ used
   - for..of: 👂 heard
   - for await: 👂 heard
   - throw: 👂 heard
